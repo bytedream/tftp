@@ -1,0 +1,11 @@
+# python
+__pycache__/
+dist/
+
+# uv
+.venv/
+.ruff_cache/
+uv.lock
+
+# editor
+.zed/
